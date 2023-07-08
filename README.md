@@ -1,2 +1,2 @@
 # trabalhoavaliativo1
-diretorio com os codigos do trabalho avaliativo1
+repositorio com os codigos do trabalho avaliativo1
